@@ -1,0 +1,17 @@
+.inp{
+    padding: 3px;
+    margin-right: 10px;
+    width: 230px;
+    height: 30px;
+    background-color:rgba(0, 255, 0, 0.312);
+    align-items: center;
+    border: 1px solid rgba(255, 68, 0, 0.633);
+    outline: none;
+}
+button{
+    width: 80px;
+    height: 30px;
+    border: none;
+    background-color: rgba(255, 68, 0, 0.378);
+    color: green;
+}
